@@ -1,6 +1,6 @@
 # quantity-of-monitors
 ```
-powershell script that starts with cmd. check whether quantity of monitors, if it changes script restarts game
+powershell script that starts with cmd. check whether quantity of monitors changed, if does cscript restarts game - 'shrek'
 default path for script is "c:\app\monitors\"
 ```
 ## monitors.ps1 description
